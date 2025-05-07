@@ -25,11 +25,11 @@ Siga os passos abaixo para rodar este projeto em sua máquina local:
 1. Clone o repositório e entre no diretório:
 
 ```bash
-git clone <link-do-seu-repo>
+git clone https://github.com/Ana-Fernandes/Teste-Pr-tico---Vaga-de-Engenharia-de-Dados-.git
 cd clima_api
 
-2. Crie o arquivo .env
-Crie um arquivo chamado .env no mesmo diretório do projeto e adicione a chave da sua API OpenWeatherMap e o URL do banco de dados PostgreSQL:
+2. Edite o arquivo .env
+Edite um arquivo chamado .env no mesmo diretório do projeto e adicione a chave da sua API OpenWeatherMap e o URL do banco de dados PostgreSQL:
 
 API_KEY=sua_chave_openweathermap
 DB_URL=postgresql://postgres:senha@localhost:5432/nome_do_banco
@@ -65,3 +65,5 @@ O script irá gerar uma saída similar a esta:
       cidade  temperatura  umidade         descricao  velocidade_vento         data_coleta
 0  São Paulo        25.76       53  scattered clouds              2.68 2025-05-07 14:12:04
 Dados salvos com sucesso no banco de dados.
+![Captura de tela 2025-05-07 145332](https://github.com/user-attachments/assets/decf4a41-500f-4afc-90ff-2b430d8f10d7)
+![Captura de tela 2025-05-07 143730](https://github.com/user-attachments/assets/f69566c5-5b0b-4862-8ace-0279aa5b57c9)
