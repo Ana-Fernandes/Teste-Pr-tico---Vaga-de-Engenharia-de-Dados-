@@ -63,7 +63,8 @@ O script irá gerar uma saída similar a esta:
 
 
       cidade  temperatura  umidade         descricao  velocidade_vento         data_coleta
-0  São Paulo        25.76       53  scattered clouds              2.68 2025-05-07 14:12:04
+0  São Paulo        25.76       53  scattered c![Captura de tela 2025-05-07 145332](https://github.com/user-attachments/assets/2079e2bf-8efe-48a4-927e-0b8b4304d9ca)
+![Captura de tela 2025-05-07 143730](https://github.com/user-attachments/assets/ad25c21a-016a-4169-82e4-0ad0d60bf90b)
+louds              2.68 2025-05-07 14:12:04
 Dados salvos com sucesso no banco de dados.
-![Captura de tela 2025-05-07 145332](https://github.com/user-attachments/assets/decf4a41-500f-4afc-90ff-2b430d8f10d7)
-![Captura de tela 2025-05-07 143730](https://github.com/user-attachments/assets/f69566c5-5b0b-4862-8ace-0279aa5b57c9)
+
