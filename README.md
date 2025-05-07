@@ -67,7 +67,9 @@ O script irá gerar uma saída similar a esta:
 louds              2.68 2025-05-07 14:12:04
 Dados salvos com sucesso no banco de dados.
 
+![img2](https://github.com/user-attachments/assets/69a53161-4870-49ae-ad19-1a704a661e00)
+![img1](https://github.com/user-attachments/assets/4d5ecd7c-dd48-4a26-8c57-ee47db4653e5)
 
-![img2](https://github.com/user-attachments/assets/dc69ad02-f3db-45e3-b597-5dfb94c49300)
-![img1](https://github.com/user-attachments/assets/e6394212-5969-41e4-ad45-4f884f9ad3cb)
+
+
 
