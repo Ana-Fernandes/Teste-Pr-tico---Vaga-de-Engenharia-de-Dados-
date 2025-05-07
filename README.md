@@ -68,5 +68,6 @@ louds              2.68 2025-05-07 14:12:04
 Dados salvos com sucesso no banco de dados.
 
 
-Captura de tela 2025-05-07 145332](https://github.com/user-attachments/assets/4aea94f5-fd5d-4e6f-a509-4931616c5202)
-Captura de tela 2025-05-07 143730](https://github.com/user-attachments/assets/b3de2bc1-1191-407f-b80e-de76e9863870)
+![img2](https://github.com/user-attachments/assets/dc69ad02-f3db-45e3-b597-5dfb94c49300)
+![img1](https://github.com/user-attachments/assets/e6394212-5969-41e4-ad45-4f884f9ad3cb)
+
